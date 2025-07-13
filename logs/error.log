@@ -1,0 +1,108 @@
+[05-Jun-2025 17:19:37 Africa/Dakar] PHP Warning:  require_once(config/config.php): Failed to open stream: No such file or directory in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:19:37 Africa/Dakar] PHP Stack trace:
+[05-Jun-2025 17:19:37 Africa/Dakar] PHP   1. {main}() C:\wamp64\www\etablissement\admin\dashboard.php:0
+[05-Jun-2025 17:19:37 Africa/Dakar] PHP   2. require_once() C:\wamp64\www\etablissement\admin\dashboard.php:3
+[05-Jun-2025 17:19:37 Africa/Dakar] PHP Fatal error:  Uncaught Error: Failed opening required 'config/config.php' (include_path='.;C:\php\pear') in C:\wamp64\www\etablissement\includes\functions.php:2
+Stack trace:
+#0 C:\wamp64\www\etablissement\admin\dashboard.php(3): require_once()
+#1 {main}
+  thrown in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:19:47 Africa/Dakar] PHP Warning:  require_once(config/config.php): Failed to open stream: No such file or directory in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:19:47 Africa/Dakar] PHP Stack trace:
+[05-Jun-2025 17:19:47 Africa/Dakar] PHP   1. {main}() C:\wamp64\www\etablissement\admin\absences.php:0
+[05-Jun-2025 17:19:47 Africa/Dakar] PHP   2. require_once() C:\wamp64\www\etablissement\admin\absences.php:3
+[05-Jun-2025 17:19:47 Africa/Dakar] PHP Fatal error:  Uncaught Error: Failed opening required 'config/config.php' (include_path='.;C:\php\pear') in C:\wamp64\www\etablissement\includes\functions.php:2
+Stack trace:
+#0 C:\wamp64\www\etablissement\admin\absences.php(3): require_once()
+#1 {main}
+  thrown in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:19:51 Africa/Dakar] PHP Warning:  require_once(config/config.php): Failed to open stream: No such file or directory in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:19:51 Africa/Dakar] PHP Stack trace:
+[05-Jun-2025 17:19:51 Africa/Dakar] PHP   1. {main}() C:\wamp64\www\etablissement\admin\etudiants.php:0
+[05-Jun-2025 17:19:51 Africa/Dakar] PHP   2. require_once() C:\wamp64\www\etablissement\admin\etudiants.php:3
+[05-Jun-2025 17:19:51 Africa/Dakar] PHP Fatal error:  Uncaught Error: Failed opening required 'config/config.php' (include_path='.;C:\php\pear') in C:\wamp64\www\etablissement\includes\functions.php:2
+Stack trace:
+#0 C:\wamp64\www\etablissement\admin\etudiants.php(3): require_once()
+#1 {main}
+  thrown in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:20:05 Africa/Dakar] PHP Warning:  require_once(config/config.php): Failed to open stream: No such file or directory in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:20:05 Africa/Dakar] PHP Stack trace:
+[05-Jun-2025 17:20:05 Africa/Dakar] PHP   1. {main}() C:\wamp64\www\etablissement\admin\notes.php:0
+[05-Jun-2025 17:20:05 Africa/Dakar] PHP   2. require_once() C:\wamp64\www\etablissement\admin\notes.php:3
+[05-Jun-2025 17:20:05 Africa/Dakar] PHP Fatal error:  Uncaught Error: Failed opening required 'config/config.php' (include_path='.;C:\php\pear') in C:\wamp64\www\etablissement\includes\functions.php:2
+Stack trace:
+#0 C:\wamp64\www\etablissement\admin\notes.php(3): require_once()
+#1 {main}
+  thrown in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:20:10 Africa/Dakar] PHP Warning:  require_once(config/config.php): Failed to open stream: No such file or directory in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:20:10 Africa/Dakar] PHP Stack trace:
+[05-Jun-2025 17:20:10 Africa/Dakar] PHP   1. {main}() C:\wamp64\www\etablissement\admin\dashboard.php:0
+[05-Jun-2025 17:20:10 Africa/Dakar] PHP   2. require_once() C:\wamp64\www\etablissement\admin\dashboard.php:3
+[05-Jun-2025 17:20:10 Africa/Dakar] PHP Fatal error:  Uncaught Error: Failed opening required 'config/config.php' (include_path='.;C:\php\pear') in C:\wamp64\www\etablissement\includes\functions.php:2
+Stack trace:
+#0 C:\wamp64\www\etablissement\admin\dashboard.php(3): require_once()
+#1 {main}
+  thrown in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:21:57 Africa/Dakar] PHP Warning:  require_once(config/config.php): Failed to open stream: No such file or directory in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:21:57 Africa/Dakar] PHP Stack trace:
+[05-Jun-2025 17:21:57 Africa/Dakar] PHP   1. {main}() C:\wamp64\www\etablissement\admin\dashboard.php:0
+[05-Jun-2025 17:21:57 Africa/Dakar] PHP   2. require_once() C:\wamp64\www\etablissement\admin\dashboard.php:9
+[05-Jun-2025 17:21:57 Africa/Dakar] PHP Fatal error:  Uncaught Error: Failed opening required 'config/config.php' (include_path='.;C:\php\pear') in C:\wamp64\www\etablissement\includes\functions.php:2
+Stack trace:
+#0 C:\wamp64\www\etablissement\admin\dashboard.php(9): require_once()
+#1 {main}
+  thrown in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:21:58 Africa/Dakar] PHP Warning:  require_once(config/config.php): Failed to open stream: No such file or directory in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:21:58 Africa/Dakar] PHP Stack trace:
+[05-Jun-2025 17:21:58 Africa/Dakar] PHP   1. {main}() C:\wamp64\www\etablissement\admin\dashboard.php:0
+[05-Jun-2025 17:21:58 Africa/Dakar] PHP   2. require_once() C:\wamp64\www\etablissement\admin\dashboard.php:9
+[05-Jun-2025 17:21:58 Africa/Dakar] PHP Fatal error:  Uncaught Error: Failed opening required 'config/config.php' (include_path='.;C:\php\pear') in C:\wamp64\www\etablissement\includes\functions.php:2
+Stack trace:
+#0 C:\wamp64\www\etablissement\admin\dashboard.php(9): require_once()
+#1 {main}
+  thrown in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:21:59 Africa/Dakar] PHP Warning:  require_once(config/config.php): Failed to open stream: No such file or directory in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:21:59 Africa/Dakar] PHP Stack trace:
+[05-Jun-2025 17:21:59 Africa/Dakar] PHP   1. {main}() C:\wamp64\www\etablissement\admin\dashboard.php:0
+[05-Jun-2025 17:21:59 Africa/Dakar] PHP   2. require_once() C:\wamp64\www\etablissement\admin\dashboard.php:9
+[05-Jun-2025 17:21:59 Africa/Dakar] PHP Fatal error:  Uncaught Error: Failed opening required 'config/config.php' (include_path='.;C:\php\pear') in C:\wamp64\www\etablissement\includes\functions.php:2
+Stack trace:
+#0 C:\wamp64\www\etablissement\admin\dashboard.php(9): require_once()
+#1 {main}
+  thrown in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:22:03 Africa/Dakar] PHP Warning:  require_once(config/config.php): Failed to open stream: No such file or directory in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:22:03 Africa/Dakar] PHP Stack trace:
+[05-Jun-2025 17:22:03 Africa/Dakar] PHP   1. {main}() C:\wamp64\www\etablissement\admin\dashboard.php:0
+[05-Jun-2025 17:22:03 Africa/Dakar] PHP   2. require_once() C:\wamp64\www\etablissement\admin\dashboard.php:9
+[05-Jun-2025 17:22:03 Africa/Dakar] PHP Fatal error:  Uncaught Error: Failed opening required 'config/config.php' (include_path='.;C:\php\pear') in C:\wamp64\www\etablissement\includes\functions.php:2
+Stack trace:
+#0 C:\wamp64\www\etablissement\admin\dashboard.php(9): require_once()
+#1 {main}
+  thrown in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:22:20 Africa/Dakar] PHP Warning:  require_once(config/config.php): Failed to open stream: No such file or directory in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:22:20 Africa/Dakar] PHP Stack trace:
+[05-Jun-2025 17:22:20 Africa/Dakar] PHP   1. {main}() C:\wamp64\www\etablissement\admin\dashboard.php:0
+[05-Jun-2025 17:22:20 Africa/Dakar] PHP   2. require_once() C:\wamp64\www\etablissement\admin\dashboard.php:9
+[05-Jun-2025 17:22:20 Africa/Dakar] PHP Fatal error:  Uncaught Error: Failed opening required 'config/config.php' (include_path='.;C:\php\pear') in C:\wamp64\www\etablissement\includes\functions.php:2
+Stack trace:
+#0 C:\wamp64\www\etablissement\admin\dashboard.php(9): require_once()
+#1 {main}
+  thrown in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:28:27 Africa/Dakar] PHP Warning:  require_once(config/config.php): Failed to open stream: No such file or directory in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:28:27 Africa/Dakar] PHP Stack trace:
+[05-Jun-2025 17:28:27 Africa/Dakar] PHP   1. {main}() C:\wamp64\www\etablissement\admin\dashboard.php:0
+[05-Jun-2025 17:28:27 Africa/Dakar] PHP   2. require_once() C:\wamp64\www\etablissement\admin\dashboard.php:9
+[05-Jun-2025 17:28:27 Africa/Dakar] PHP Fatal error:  Uncaught Error: Failed opening required 'config/config.php' (include_path='.;C:\php\pear') in C:\wamp64\www\etablissement\includes\functions.php:2
+Stack trace:
+#0 C:\wamp64\www\etablissement\admin\dashboard.php(9): require_once()
+#1 {main}
+  thrown in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:28:54 Africa/Dakar] PHP Warning:  require_once(config/config.php): Failed to open stream: No such file or directory in C:\wamp64\www\etablissement\includes\functions.php on line 2
+[05-Jun-2025 17:28:54 Africa/Dakar] PHP Stack trace:
+[05-Jun-2025 17:28:54 Africa/Dakar] PHP   1. {main}() C:\wamp64\www\etablissement\admin\dashboard.php:0
+[05-Jun-2025 17:28:54 Africa/Dakar] PHP   2. require_once() C:\wamp64\www\etablissement\admin\dashboard.php:9
+[05-Jun-2025 17:28:54 Africa/Dakar] PHP Fatal error:  Uncaught Error: Failed opening required 'config/config.php' (include_path='.;C:\php\pear') in C:\wamp64\www\etablissement\includes\functions.php:2
+Stack trace:
+#0 C:\wamp64\www\etablissement\admin\dashboard.php(9): require_once()
+#1 {main}
+  thrown in C:\wamp64\www\etablissement\includes\functions.php on line 2

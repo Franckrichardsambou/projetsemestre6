@@ -1,0 +1,53 @@
+/etablissement/
+│
+├── config/
+│   ├── db.php
+│   └── config.php
+│
+├── includes/
+│   ├── header.php
+│   ├── footer.php
+│   └── functions.php
+│
+├── auth/
+│   ├── login.php
+│   ├── logout.php
+│   └── register.php
+│
+├── admin/
+│   ├── dashboard.php
+│   ├── classes.php CRUD
+│   ├── matieres.php CRUD
+│   ├── enseignants.php CRUD
+│   ├── etudiants.php CRUD
+│   ├── emploi.php  CRUD
+│   ├── absences.php CRUD
+│   ├── notes.php   CRUD
+│   └── deliberations.php  CRUD
+│
+├── enseignant/
+│   ├── dashboard.php
+│   ├── notes.php CRUD
+├   ├── cours.php CRUD
+│   ├── emploi.php CRUD
+│   └── absences.php CRUD
+│
+├── etudiant/
+│   ├── dashboard.php
+│   ├── bulletin.php
+│   ├── cours.php
+│   └── emploi.php
+│
+├── assets/
+│   ├── css/
+│   │   ├── style.css
+│   │   ├── admin.css
+│   │   ├── enseignant.css
+│   │   └── etudiant.css
+│   ├── js/
+│   │   └── main.js
+│   └── images/
+│       └── logo.png
+│
+├── index.php
+└── .htaccess
